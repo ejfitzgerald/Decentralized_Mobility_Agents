@@ -44,8 +44,10 @@ Users can simulate the scenario in [Metaverse](https://blog.bosch-digital.com/me
 
 Here are configuration details for the infrastrucure and hardware
 
-### Infrastructure
-- [Bosch Infrastructure](/host/bosch-host-settings.md)
 ### Hardware
 - [JetRacer](/jetracer/jetracer-settings.md)
 - [Mock-charger](/mock-charger/infra-settings.md)
+### Software
+- [SSI stack](/ssi/ssi-settings.md)
+### Infrastructure
+- [Bosch Infrastructure](/host/bosch-host-settings.md)

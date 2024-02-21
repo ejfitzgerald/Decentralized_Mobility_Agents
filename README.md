@@ -4,10 +4,12 @@
 ![](assets/Mendix-Primary-Logo-RGB-Blue-h60.png)
 
 - [About](#about)
-    - [Hackcoaches](#hack-coaches) 
+    - [Hackcoaches](#hack-coaches)
 - [What we offer](#tech-stack-overview)
 - [Example use-case](#an-example-use-case)
 - [Getting Started](#getting-started)
+    - [Pre-requisites](#pre-requisites)
+    - [Hackathon setup](#hackathon-setup-configuration)
 
 ## About
 In this challenge, we, as Mobility Providers, are dedicated to creating the ultimate travel experience for our customers. Our goal is to engineer vehicles that seamlessly navigate the complexities of ever-changing situations, ensuring that passengers feel at ease and thoroughly enjoy their journey. We aim to innovate and push the boundaries of what's possible, making every trip not just a journey, but an experience to remember
@@ -42,6 +44,12 @@ Users can simulate the scenario in [Metaverse](https://blog.bosch-digital.com/me
 
 ## Getting started
 
+### Pre-requisites
+Participants are expected to have the following tools installed in their laptop
+- [tailscale](https://tailscale.com) (to access the hardware)
+- [colima](https://github.com/abiosoft/colima) (to execute docker in macOS)
+
+### Hackathon setup configuration
 Here are configuration details for the infrastrucure and hardware
 
 ### Hardware

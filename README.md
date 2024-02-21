@@ -18,4 +18,4 @@ Here is the detailed stack of the infrastructure and the hardware devices
 - [Bosch Infrastructure](/host/bosch-host-settings.md)
 ### Hardware
 - [JetRacer](/jetracer/jetracer-settings.md)
-
+- [Mock-charger](/mock-charger/infra-settings.md)

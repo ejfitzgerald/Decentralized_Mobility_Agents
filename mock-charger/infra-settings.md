@@ -19,5 +19,6 @@ then browse to `tailscale-ip-address:8501/aruco_marker_generator`, choose the *M
 ## DDS
 to run the subscriber
 ```
+cd dds/
 docker run -it --rm --name subscriber -v $(pwd)/config:/config -v $(pwd):/app --net=host indrasenr/dds:cdds_v2 python3 /app/subscriber.py
 ```

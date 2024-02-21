@@ -1,5 +1,27 @@
 # Decentralized Mobility Agents
 
+
+![](assets/Mendix-Primary-Logo-RGB-Blue-h60.png)
+
+- [About](#about)
+    - [Hackcoaches](#hack-coaches) 
+- [What we offer](#tech-stack-overview)
+- [Example use-case](#an-example-use-case)
+- [Getting Started](#getting-started)
+
+## About
+In this challenge, we, as Mobility Providers, are dedicated to creating the ultimate travel experience for our customers. Our goal is to engineer vehicles that seamlessly navigate the complexities of ever-changing situations, ensuring that passengers feel at ease and thoroughly enjoy their journey. We aim to innovate and push the boundaries of what's possible, making every trip not just a journey, but an experience to remember
+
+## Hack Coaches
+### Bosch
+- Indrasen Raghupatruni
+- Himajit Aithal
+- Pavel Simo
+### Fetch.ai
+- Maria Minaricova 
+- Florian Wilde
+- Edward FitzGerald
+
 ## Tech Stack overview
 
 Software stack comprises of [playground.digital.auto
@@ -12,7 +34,14 @@ Here is the detailed stack of the infrastructure and the hardware devices
 
 ![Tech stack](figures/Tech_Stack.png?raw=true "Tech stack")
 
-## Configurations
+## An example use-case
+
+Detect driver's range anxiety through car's AI, engage Voice/Chat assist, obtain goal to locate and book charging station, process with context aware agent, activate search and booking service, notify driver of scheduled slot, authenticate at charging station, handle transaction autonomously, notify driver, continue journey with content driver. 
+Users can simulate the scenario in Metaverse or use the hardware with provided TechStack
+
+## Getting started
+
+Here are configuration details for the infrastrucure and hardware
 
 ### Infrastructure
 - [Bosch Infrastructure](/host/bosch-host-settings.md)

@@ -59,7 +59,7 @@ Here are configuration details for the infrastrucure and hardware
 - [SSI stack](/ssi/ssi-settings.md)
 - [Kuksa.val](https://github.com/eclipse/kuksa.val)
     - Sample code to run kuksa client is available in [JetRacer document](/jetracer/jetracer-settings.md) and [mock-charger document](/mock-charger/infra-settings.md)
-- DDS
-    - Sample code to run DDS ([cycloneDDS](https://github.com/eclipse-cyclonedds/cyclonedds)) publisher and subscriber are available in [JetRacer document](/jetracer/jetracer-settings.md) and [mock-charger document](/mock-charger/infra-settings.md) respectively.
+- [DDS](https://github.com/eclipse-cyclonedds/cyclonedds)
+    - Sample code to run DDS publisher and subscriber are available in [JetRacer document](/jetracer/jetracer-settings.md) and [mock-charger document](/mock-charger/infra-settings.md) respectively.
 ### Infrastructure
 - [Bosch Infrastructure](/host/bosch-host-settings.md)

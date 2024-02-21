@@ -11,3 +11,11 @@ Software stack comprises of [playground.digital.auto
 Here is the detailed stack of the infrastructure and the hardware devices 
 
 ![Tech stack](figures/Tech_Stack.png?raw=true "Tech stack")
+
+## Configurations
+
+### Infrastructure
+- [Bosch Infrastructure](/host/bosch-host-settings.md)
+### Hardware
+- [JetRacer](/jetracer/jetracer-settings.md)
+

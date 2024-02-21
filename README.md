@@ -37,7 +37,8 @@ Here is the detailed stack of the infrastructure and the hardware devices
 ## An example use-case
 
 Detect driver's range anxiety through car's AI, engage Voice/Chat assist, obtain goal to locate and book charging station, process with context aware agent, activate search and booking service, notify driver of scheduled slot, authenticate at charging station, handle transaction autonomously, notify driver, continue journey with content driver. 
-Users can simulate the scenario in Metaverse or use the hardware with provided TechStack
+
+Users can simulate the scenario in [Metaverse](https://blog.bosch-digital.com/metaverse-a-place-for-education-and-training/) or use the hardware with provided [TechStack](#tech-stack-overview)
 
 ## Getting started
 

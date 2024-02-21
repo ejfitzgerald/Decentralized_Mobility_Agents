@@ -57,5 +57,9 @@ Here are configuration details for the infrastrucure and hardware
 - [Mock-charger](/mock-charger/infra-settings.md)
 ### Software
 - [SSI stack](/ssi/ssi-settings.md)
+- Kuksa.val
+    - Sample code to run kuksa client is available in [JetRacer document](/jetracer/jetracer-settings.md) and [mock-charger document](/mock-charger/infra-settings.md)
+- DDS
+    - Sample code to run DDS publisher and subscriber are available in [JetRacer document](/jetracer/jetracer-settings.md) and [mock-charger document](/mock-charger/infra-settings.md) respectively.
 ### Infrastructure
 - [Bosch Infrastructure](/host/bosch-host-settings.md)

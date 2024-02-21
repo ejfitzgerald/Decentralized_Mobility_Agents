@@ -6,7 +6,14 @@ Browse to the jupyter notebook *ip-address-of-jetracer:8888* (password: `jetson`
 
 Note: For advanced driving scenario (track following) use **lab_drive.ipynb** (beware that it has to be driven on a track)
 
-## Kuksa client, this will publish JetRacer identification
+## Kuksa client 
+This will publish JetRacer identification
 ```
 docker run --rm -it --net=host indrasenr/kuksa-client:publisher
+```
+
+## DDS
+to run the publisher
+```
+docker run -it --rm --name publisher -v $(pwd)/config:/config -v $(pwd):/app --net=host indrasenr/dds:cdds_v2 python3 /app/publisher.py
 ```

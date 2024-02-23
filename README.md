@@ -47,8 +47,12 @@ Users can simulate the scenario in [Metaverse](https://blog.bosch-digital.com/me
 ### Pre-requisites
 Participants are expected to have the following tools installed in their laptop
 - [tailscale](https://tailscale.com) (to access the hardware) -> login with github account
-- [colima](https://github.com/abiosoft/colima) (to execute docker in macOS)
+- Docker / [colima](https://github.com/abiosoft/colima) (to execute docker in macOS)
 - python>3.10
+- Fetch.ai [agentverse](https://agentverse.ai/) account -> login with gmail account
+- Fetch.ai [deltav](https://deltav.agentverse.ai/login) -> login with gmail account
+    - contact Fetch.ai hackcoaches onsite for access.
+
 
 ### Hackathon setup configuration
 Here are configuration details for the infrastrucure and hardware
@@ -56,6 +60,7 @@ Here are configuration details for the infrastrucure and hardware
 ### Hardware
 - [JetRacer](/jetracer/jetracer-settings.md)
 - [Mock-charger](/mock-charger/infra-settings.md)
+- [virtual HW](/virtual/getting-started-virtualHW.md)
 ### Software
 - [SSI stack](/ssi/ssi-settings.md)
 - [Kuksa.val](https://github.com/eclipse/kuksa.val)

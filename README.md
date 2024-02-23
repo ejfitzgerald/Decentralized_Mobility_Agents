@@ -46,9 +46,9 @@ Users can simulate the scenario in [Metaverse](https://blog.bosch-digital.com/me
 
 ### Pre-requisites
 Participants are expected to have the following tools installed in their laptop
-- [tailscale](https://tailscale.com) (to access the hardware)
+- [tailscale](https://tailscale.com) (to access the hardware) -> login with github account
 - [colima](https://github.com/abiosoft/colima) (to execute docker in macOS)
-- python>3.8
+- python>3.10
 
 ### Hackathon setup configuration
 Here are configuration details for the infrastrucure and hardware
@@ -62,5 +62,6 @@ Here are configuration details for the infrastrucure and hardware
     - Sample code to run kuksa client is available in [JetRacer document](/jetracer/jetracer-settings.md) and [mock-charger document](/mock-charger/infra-settings.md)
 - [DDS](https://github.com/eclipse-cyclonedds/cyclonedds)
     - Sample code to run DDS publisher and subscriber are available in [JetRacer document](/jetracer/jetracer-settings.md) and [mock-charger document](/mock-charger/infra-settings.md) respectively.
+- [metaverse](https://github.com/Bosch-ConnectedExperience-2024/SDV_GettingStarted/blob/WIP.SDVLINK.DOCS/sdv-link-mixed-reality-kit.md)    
 ### Infrastructure
 - [Bosch Infrastructure](/host/bosch-host-settings.md)

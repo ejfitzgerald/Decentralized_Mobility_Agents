@@ -48,7 +48,7 @@ Users can simulate the scenario in [Metaverse](https://blog.bosch-digital.com/me
 Participants are expected to have the following tools installed in their laptop
 - [tailscale](https://tailscale.com) (to access the hardware) -> login with github account
 - Docker / [colima](https://github.com/abiosoft/colima) (to execute docker in macOS)
-- python>3.10
+- Python (v3.10+ recommended)
 - Fetch.ai [agentverse](https://agentverse.ai/) account -> login with gmail account
 - Fetch.ai [deltav](https://deltav.agentverse.ai/login) -> login with gmail account
     - contact Fetch.ai hackcoaches onsite for access.
@@ -68,5 +68,6 @@ Here are configuration details for the infrastrucure and hardware
 - [DDS](https://github.com/eclipse-cyclonedds/cyclonedds)
     - Sample code to run DDS publisher and subscriber are available in [JetRacer document](/jetracer/jetracer-settings.md) and [mock-charger document](/mock-charger/infra-settings.md) respectively.
 - [metaverse](https://github.com/Bosch-ConnectedExperience-2024/SDV_GettingStarted/blob/WIP.SDVLINK.DOCS/sdv-link-mixed-reality-kit.md)    
+- [wallet chat](/resources/Chat%20to%20X.pptx)
 ### Infrastructure
 - [Bosch Infrastructure](/host/bosch-host-settings.md)

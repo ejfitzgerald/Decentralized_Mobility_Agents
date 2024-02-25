@@ -1,6 +1,8 @@
-![Fetch.ai Logo](https://fetch.ai/docs/_next/static/media/logo.44a22e20.svg)
+<p align="center">
+  <img src="https://fetch.ai/docs/_next/static/media/logo.44a22e20.svg" width="250" alt="Fetch.ai Logo">
+</p>
 
-# Fetch.ai Tech Stack
+# The Fetch.ai Tech Stack
 
 Welcome to the exciting world of Fetch AI Agents. There are 3 main parts to the Fetch.ai technology stack that you will want to understand.
 

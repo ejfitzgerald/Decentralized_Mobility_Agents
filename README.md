@@ -49,9 +49,8 @@ Participants are expected to have the following tools installed in their laptop
 - [tailscale](https://tailscale.com) (to access the hardware) -> login with github account
 - Docker / [colima](https://github.com/abiosoft/colima) (to execute docker in macOS)
 - Python (v3.10+ recommended)
-- Fetch.ai [agentverse](https://agentverse.ai/) account -> login with gmail account
-- Fetch.ai [deltav](https://deltav.agentverse.ai/login) -> login with gmail account
-    - contact Fetch.ai hackcoaches onsite for access.
+- Fetch.ai [Agentverse](https://agentverse.ai/) account -> login with gmail account
+- Fetch.ai [DeltaV](https://deltav.agentverse.ai/) -> login with gmail account
 
 
 ### Hackathon setup configuration

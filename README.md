@@ -69,5 +69,6 @@ Here are configuration details for the infrastrucure and hardware
     - Sample code to run DDS publisher and subscriber are available in [JetRacer document](/jetracer/jetracer-settings.md) and [mock-charger document](/mock-charger/infra-settings.md) respectively.
 - [metaverse](https://github.com/Bosch-ConnectedExperience-2024/SDV_GettingStarted/blob/WIP.SDVLINK.DOCS/sdv-link-mixed-reality-kit.md)    
 - [wallet chat](/resources/Chat%20to%20X.pptx)
+- [Fetch.ai Agent Stack](/fetchai/README.md)
 ### Infrastructure
 - [Bosch Infrastructure](/host/bosch-host-settings.md)
